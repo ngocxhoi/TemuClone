@@ -1,6 +1,10 @@
-# Nuxt Minimal Starter
+# Overall
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Temu clone using nuxt nuxthub nuxtcontent
+
+# Preview
+![Ảnh chụp màn hình_30-5-2025_23618_localhost](https://github.com/user-attachments/assets/98e6e861-e164-40b8-b31c-dd74feeb8f13)
+
 
 ## Setup
 
