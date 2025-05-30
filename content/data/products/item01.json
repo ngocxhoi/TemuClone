@@ -1,0 +1,8 @@
+{
+  "uuid": "1",
+  "title": "Product 1",
+  "description": "Description of Product 1",
+  "price": 100,
+  "image": "https://placehold.co/400",
+  "category": "Category 1"
+}
